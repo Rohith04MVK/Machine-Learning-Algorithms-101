@@ -18,3 +18,7 @@ Given this data can we predict the the price for a new sized house?
 | ------------------- | ----------- |
 | 140                 | ?           |
 | 10                  | ?           |
+
+More mathematically speaking we need to find a line that can minimize the distance from every data point and the line
+![graph](/images/example1.jpg)
+![graph2](./images/example2.jpg)
